@@ -2,7 +2,7 @@
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on *very-very good GameDev company*
-- 📫 How to reach me : aladinchik273@gmail.com or <a href="https://t.me/aladin273">@aladin273</a> *telegram*
+- 📫 How to reach me : aladinchik273@gmail.com or <a href="https://t.me/aladin273">@aladin273</a> telegram
 
 <!---
 Aladin273/Aladin273 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
